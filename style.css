@@ -6,14 +6,14 @@
 }
 
 :root {
-    --c1: #3E2723;
-    --c2: #5D4037;
-    --c3: #8D6E63;
-    --c4: #FFF;
-    --primary-bg: #F9F1E7;
-    --header-bg: #6B4F3C;
-    --button-bg: #7A4B3A;
-    --button-hover-bg: #4E3629;
+    --c1: #1A237E;
+    --c2: #1976D2;
+    --c3: #64B5F6;
+    --c4: #FFFFFF;
+    --primary-bg: #E1F5FE;
+    --header-bg: #0288D1;
+    --button-bg: #1976D2;
+    --button-hover-bg: #1565C0;
     --border-radius: 8px;
 }
 
